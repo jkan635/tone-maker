@@ -1,6 +1,6 @@
 # Tone Maker
 
-Uses [ToneJS](https://tonejs.github.io/) to mock the tones from the [Tone32 ESP32 Library](https://github.com/lbernstone/Tone32). The web app keeps a recording of the clicked tones.
+Uses [ToneJS](https://tonejs.github.io/) to mock the tones from the [Tone32 ESP32 Library](https://github.com/lbernstone/Tone32). The web app keeps a recording of the clicked tones and gives you an option to generate code that can be used in a project. The format used can be found here https://github.com/robsoncouto/arduino-songs/tree/master
 
 ## Getting Started
 

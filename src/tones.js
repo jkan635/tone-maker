@@ -1,4 +1,5 @@
 export const tones = [
+    {"note": "REST", "frequency": 0},
     {"note": "NOTE_B0", "frequency": 31},
     {"note": "NOTE_C1", "frequency": 33},
     {"note": "NOTE_CS1", "frequency": 35},
