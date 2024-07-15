@@ -126,6 +126,9 @@ function App() {
         <div className="flex flex-col gap-1 w-full items-center">
           <div className="text-base md:text-lg font-bold text-center text-gray-800">Generate Code</div> 
           <div className="text-xs md:text-sm font-bold text-center text-gray-600">
+            I used 
+              <a href="https://github.com/robsoncouto/arduino-songs/tree/master" className="text-blue-400"> this example </a> 
+            for the format of this generated code <br/>
             NOTE: The durations will be mapped to the following: <br/>
             Greater than or equal to 1.5 seconds: -4 (dotted quarter note) <br/>
             Greater than or equal to 1 second: 4 (quarter note) <br/>
